@@ -1,0 +1,9 @@
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\bin\Debug\netcoreapp3.1\Onion.Abstract.deps.json
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\bin\Debug\netcoreapp3.1\Onion.Abstract.dll
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\bin\Debug\netcoreapp3.1\Onion.Abstract.pdb
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\obj\Debug\netcoreapp3.1\Onion.Abstract.csprojAssemblyReference.cache
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\obj\Debug\netcoreapp3.1\Onion.Abstract.AssemblyInfoInputs.cache
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\obj\Debug\netcoreapp3.1\Onion.Abstract.AssemblyInfo.cs
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\obj\Debug\netcoreapp3.1\Onion.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\obj\Debug\netcoreapp3.1\Onion.Abstract.dll
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Abstract\obj\Debug\netcoreapp3.1\Onion.Abstract.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ia4wWgytHux5nFdgfcSlHqCFaHeB7HZfU1cfXufP9SZfyIZkQ27XOVYJnkGKGjJnj743ZzlUU6dNP4cHmYX65Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\do053834\\Downloads\\Wielowarstwowe_sb_10.10.2020\\Wielowarstwowe_sb\\DIIoC\\DIIoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\do053834\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
+    "C:\\Users\\do053834\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\do053834\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

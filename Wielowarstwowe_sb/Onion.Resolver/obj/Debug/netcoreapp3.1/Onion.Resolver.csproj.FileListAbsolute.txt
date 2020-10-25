@@ -1,0 +1,9 @@
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\bin\Debug\netcoreapp3.1\Onion.Resolver.deps.json
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\bin\Debug\netcoreapp3.1\Onion.Resolver.dll
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\bin\Debug\netcoreapp3.1\Onion.Resolver.pdb
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\obj\Debug\netcoreapp3.1\Onion.Resolver.AssemblyInfoInputs.cache
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\obj\Debug\netcoreapp3.1\Onion.Resolver.AssemblyInfo.cs
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\obj\Debug\netcoreapp3.1\Onion.Resolver.dll
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\obj\Debug\netcoreapp3.1\Onion.Resolver.pdb
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\obj\Debug\netcoreapp3.1\Onion.Resolver.csprojAssemblyReference.cache
+C:\Users\do053834\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Onion.Resolver\obj\Debug\netcoreapp3.1\Onion.Resolver.csproj.CoreCompileInputs.cache
